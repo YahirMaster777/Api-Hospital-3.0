@@ -1,3 +1,1 @@
-print("Archivo 3")
-print("Archivo 3")
-print("Archivo 3")
+print("Hola archivo 3")
