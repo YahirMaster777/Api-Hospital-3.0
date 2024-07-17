@@ -1,0 +1,11 @@
+Crear entorno 
+-- py -m venv Api
+
+activarlo 
+
+-- cd  scripts/activate
+
+
+-- pip install fastapi uvicorn
+
+uvicorn APP:APP
